@@ -194,11 +194,13 @@
 
     <script>
         async function fetchText(file) {
-            try {
-                const res = await fetch(file);
-                return res.ok ? await res.text() : null;
-            } catch { return null; }
-        }
+    try {
+        const res = await fetch(file + "?t=" + Date.now(), {
+            cache: "no-store"
+        });
+        return res.ok ? await res.text() : null;
+    } catch { return null; }
+}
 
         async function init() {
             const ev = await fetchText('version.txt');
