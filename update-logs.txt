@@ -1,1 +1,1 @@
-Updated left-side menu style\nInjector updated to version 0.9.5\nSupports the latest Roblox version
+The injector has been updated to version 0.9.5\nsupporting the latest Roblox version\nThe left-side menu style has been updated\A new DAshboard has been added
