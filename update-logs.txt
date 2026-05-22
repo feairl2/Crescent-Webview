@@ -1,1 +1,1 @@
-A completely new user interface\nRoblox will automatically downgrade when the version is incompatible
+The auto downgrade roblox system has been optimized for better performance\nWhen the downgraded version of Roblox crashes, if Attach, will auto restart Roblox\nThe Discord RPC state system has also been fixed
