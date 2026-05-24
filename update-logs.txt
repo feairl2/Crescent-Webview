@@ -1,1 +1,1 @@
-The auto downgrade roblox system has been optimized for better performance\nWhen the downgraded version of Roblox crashes, if Attach, will auto restart Roblox\nThe Discord RPC state system has also been fixed
+Fixed some Roblox downgrade issues\nFixed button offset issues at 96% DPI\nChanged the ControlBox button icon and Cursor\nAdded the "Auto Downgrade Roblox" toggle to the System category settings
