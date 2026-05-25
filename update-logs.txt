@@ -1,1 +1,1 @@
-Fixed some Roblox downgrade issues\nFixed button offset issues at 96% DPI\nChanged the ControlBox button icon and Cursor\nAdded the "Auto Downgrade Roblox" toggle to the System category settings
+New Logo\nImproved Hover style for the Control button
