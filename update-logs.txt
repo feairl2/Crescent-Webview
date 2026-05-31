@@ -1,1 +1,1 @@
-Supports the latest version of Roblox\nInjector version updated to 0.9.7\nWhen enabling a downgraded version of Roblox, user confirmation will be required
+Fixed TP Handler\nUpdated Luau compiler to version 0.722\nFixed setfflag function\nFixed getfflag function\nRewrote TP handler\nFixed getcustomasset detection issue\nAdded Roblox version checker to injector\nAdjusted logo size\nNo longer adds extension to Tab when loading Explorer files
