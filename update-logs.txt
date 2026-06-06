@@ -1,1 +1,1 @@
-Automatically downgraded to Roblox version-460909c4fe904aae\nFixed an issue where script execution failed after automatic injection when the script was not injected\nFixed a script execution delay issue\nChanged the Monaco font preset size to 15px
+Change the automatic Roblox downgrade to a background process and add a progress bar to the notification\nfix the DPI display issue\nDelete unnecessary files
