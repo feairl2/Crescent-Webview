@@ -1,1 +1,1 @@
-Spectra renamed to Crescent\nLogo changed\nUpdate link changed
+Completely fixes Dpi scaling issues
