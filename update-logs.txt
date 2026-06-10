@@ -1,1 +1,1 @@
-Completely fixes Dpi scaling issues
+Downgraded Roblox to version-ad5d3e2906444472\nFixed Auto Downgrade Roblox failure\nFixed automatic update failure\nAdjust window preset size
