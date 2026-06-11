@@ -1,1 +1,1 @@
-Downgraded Roblox to version-ad5d3e2906444472\nFixed Auto Downgrade Roblox failure\nFixed automatic update failure\nAdjust window preset size
+Crescent API updated to version 1.0.2\nFixed delay crash with injection\nFixed instant crash on injection\nFixed crashing with remote spies\nFixed 10-minute crash\nFixed installation/update failure issues in some environments\nChanged toggle button color
