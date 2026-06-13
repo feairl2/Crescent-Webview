@@ -1,1 +1,1 @@
-Crescent API updated to version 1.0.2\nFixed delay crash with injection\nFixed instant crash on injection\nFixed crashing with remote spies\nFixed 10-minute crash\nFixed installation/update failure issues in some environments\nChanged toggle button color
+Fixed the issue of language application failure.\nExplorer Right-click context menu on folder groups (Scripts / AutoExec) to create new files and folders\nExplorer Right-click context menu on file items to delete scripts\nAdjusting the timing of language application
